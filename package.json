@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "email-sender": "^1.0.1",
+    "password-generator": "^2.3.2"
+  }
+}
